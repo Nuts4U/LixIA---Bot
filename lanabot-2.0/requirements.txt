@@ -1,0 +1,10 @@
+aiogram
+flask
+openai
+aioschedule
+asyncio
+requests
+firebase_admin
+firebase
+stripe
+pydub
